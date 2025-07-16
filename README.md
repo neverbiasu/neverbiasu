@@ -5,9 +5,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     8 hrs 30 mins   █████████████████████▒░░░   85.24 %
-Python       1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-TypeScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Markdown     6 hrs 31 mins   ███████████████████████░░   91.91 %
+TypeScript   34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 ```
 
 <!--END_SECTION:waka-->
