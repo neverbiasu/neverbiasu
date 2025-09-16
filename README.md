@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python               6 hrs 2 mins    ███████████░░░░░░░░░░░░░░   44.41 %
-Markdown             2 hrs 52 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
-TeX                  2 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
-TypeScript           53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-JSON with Comments   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Python               4 hrs 29 mins   ██████████████▒░░░░░░░░░░   57.89 %
+Markdown             1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+TypeScript           45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+TeX                  41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+OpenEdge ABL         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
