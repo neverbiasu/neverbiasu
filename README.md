@@ -5,11 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text       34 mins               █████████▓░░░░░░░░░░░░░░░   38.63 %
-Other      29 mins               ████████▒░░░░░░░░░░░░░░░░   33.26 %
-MDX        24 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-JSON       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
