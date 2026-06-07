@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       12 hrs 6 mins         █████████▒░░░░░░░░░░░░░░░   37.99 %
-Markdown     9 hrs 28 mins         ███████▒░░░░░░░░░░░░░░░░░   29.74 %
-TypeScript   6 hrs 40 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
-YAML         1 hr 41 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-JSON         54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Python             9 hrs 50 mins         ████████▒░░░░░░░░░░░░░░░░   33.14 %
+Markdown           8 hrs 23 mins         ███████░░░░░░░░░░░░░░░░░░   28.21 %
+TypeScript         6 hrs 54 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
+YAML               1 hr 41 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+SRecode Template   1 hr 22 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
