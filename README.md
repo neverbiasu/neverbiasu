@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     19 hrs 59 mins        ████████████████████▒░░░░   80.89 %
+TeX          1 hr 37 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Python       59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Other        49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+JavaScript   46 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
